@@ -1,5 +1,25 @@
 # Lab: Password Input
 
+This project implements a password input field that tracks a user’s typing and mouse events. The app includes a password input component and a submit button that logs user actions, such as typing and mouse movements.
+
+The console logs will show outputs such as:
+    - "Entering password..."
+    - "Mouse Entering"
+    - "Mouse Exiting"
+
+SETUP:
+1. After cloning the project from GitHub, be sure to install dependencies via:
+   npm install
+2. Run the application locally via:
+   npm start
+3. Open your browser and visit http://localhost:5173/ to view the app.
+4. Run tests via:
+   npm test
+
+Thank you and enjoy!
+
+
+
 ## Overview
 Now that you've learned how to work with events in React, it's time to build something and put those skills to use! Your goal for this lab is to add events in React to practice building event handling.
 
